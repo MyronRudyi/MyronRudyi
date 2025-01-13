@@ -22,7 +22,7 @@
 </h1>
 
 **Name:** Myron Rudyi  
-**Age:** 15 years
+**Age:** 16 years
 **Country:** Ukraine
 **Programming level:** Junior
 
